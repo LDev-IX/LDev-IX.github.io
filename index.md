@@ -1,4 +1,4 @@
-## This website is used for some LDev_IX's projects. <br>
+## This website is used for some of LDev_IX's projects. <br>
 
 ## Projects : <br>
 - LUR - LDev_IX Utilities Reworked <br>
