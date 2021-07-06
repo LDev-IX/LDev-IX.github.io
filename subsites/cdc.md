@@ -1,7 +1,7 @@
 # Candice Coin (CDC) <br>
 
 ## Download CDC <br>
-|     | Stable | Beta |
+| dumb | Stable | Beta |
 | --- | ------ | ---- |
 | x64 | W.I.P | W.I.P |
 
