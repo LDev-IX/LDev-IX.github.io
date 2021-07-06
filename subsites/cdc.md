@@ -20,3 +20,5 @@ First version of Candice Coin will be released on July 10th or earlier. <br>
 - Sneaky Shadow
 - none
 - none
+
+###### Official CDC site (07-july-2021) <br>
