@@ -1,9 +1,9 @@
 # Candice Coin (CDC) <br>
 
 ## Download CDC <br>
-|     | Stable | Beta | <br>
-| --- | ------ | ---- | <br>
-| x64 | W.I.P | W.I.P | <br>
+|     | Stable | Beta |
+| --- | ------ | ---- |
+| x64 | W.I.P | W.I.P |
 
 ## What is CDC ? <br>
 Candice Coin is a cryptocurrency developed by LDev_IX. <br>
