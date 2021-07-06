@@ -1,3 +1,3 @@
 ## Candice Coin (CDC) <br>
 
-## W.I.P
+## This site is under construction
