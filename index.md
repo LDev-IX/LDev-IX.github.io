@@ -1,6 +1,6 @@
 ## Projects : <br>
-- [CDC Coin](https://ldev-ix.github.io/subsites/cdc.md) - Candice Coin <br>
-- [LUR](https://ldev-ix.github.io/subsites/lur.md) - LDev_IX Utilities Reworked <br>
+- [CDC Coin](https://ldev-ix.github.io/subsites/cdc) - Candice Coin <br>
+- [LUR](https://ldev-ix.github.io/subsites/lur) - LDev_IX Utilities Reworked <br>
 - LAH - LDev_IX Application Hub <br>
 
 ## Project status : <br>
