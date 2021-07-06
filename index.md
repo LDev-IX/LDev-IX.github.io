@@ -1,10 +1,10 @@
-## This website is used for some of LDev_IX's projects. <br>
-
 ## Projects : <br>
+- CDC Coin - CanDiCe Coin <br>
 - LUR - LDev_IX Utilities Reworked <br>
 - LAH - LDev_IX Application Hub <br>
 
 ## Project status : <br>
+- CDC Coin - W.I.P <br>
 - LUR - W.I.P. <br>
 - LAH - D.N.S. <br>
 
@@ -18,7 +18,7 @@ How old is he ? He's 6. <br>
 He created things like : <br>
 - MCMPP - (MineCraft Machinery Plus Plus) A minecraft 1.12.2 mod that added tons of new stuff. <br>
 - ZCruncher - Computer benchmarking program. <br>
-- MudPud Reloaded/Reborn/OCTX/WPFV - A RPG game. <br>
+- MudPud Reloaded/Reborn - A RPG game. <br>
 - LHubR - (LDev_IX Hub Reloaded) Hub for downloading some stuff. <br>
 
 ## Contact info : <br>
