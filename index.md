@@ -1,3 +1,5 @@
+# Really cool website <br>
+
 ## Projects : <br>
 - [CDC Coin](https://ldev-ix.github.io/subsites/cdc) - Candice Coin <br>
 - [LUR](https://ldev-ix.github.io/subsites/lur) - LDev_IX Utilities Reworked <br>
