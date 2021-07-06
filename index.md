@@ -1,5 +1,5 @@
 ## Projects : <br>
-- [CDC Coin]((https://ldev-ix.github.io/subsites/CDC.md) - CanDiCe Coin <br>
+- [CDC Coin]((https://ldev-ix.github.io/subsites/CDC.md) - Candice Coin <br>
 - [LUR](https://ldev-ix.github.io/subsites/LUR.md) - LDev_IX Utilities Reworked <br>
 - LAH - LDev_IX Application Hub <br>
 
