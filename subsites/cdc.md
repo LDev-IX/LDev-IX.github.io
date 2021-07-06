@@ -17,8 +17,8 @@ First version of Candice Coin will be released on July 10th or earlier. <br>
 [The first 3 people who contact me on discord and dm me "CDC_To_The_Moon" will get 1 CDC for free.] <br>
 
 ## People who got 1 CDC for free straight from LDev_IX : <br>
-- Sneaky Shadow
-- none
-- none
+- Sneaky Shadow <br>
+- none <br>
+- none <br>
 
 ###### Official CDC site (6th July 2021) <br>
