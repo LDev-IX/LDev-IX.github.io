@@ -10,3 +10,8 @@ And remember, never ask what or who candice is, I warned you. <br>
 Candice Coin is being developed right now and I am gathering cool ideas for it. <br>
 First version of CDC will be released on July 10th or earlier. <br>
 [The first 3 people who contact me on discord and dm me "CDC_To_The_Moon" will get 1 CDC for free.] <br>
+
+## People who got 1 CDC for free straight from LDev_IX : <br>
+- Sneaky Shadow
+- none
+- none
