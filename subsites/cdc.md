@@ -15,11 +15,9 @@ And remember, never ask what or who candice is, I warned you. <br>
 ## What state is CDC in ? <br>
 Candice Coin is being developed right now and I am gathering cool ideas for it. <br>
 First version of Candice Coin will be released on July 10th or earlier. <br>
-[The first 3 people who contact me on discord and dm me "CDC_To_The_Moon" will get CDC for free.] <br>
 
 ## People who got CDC for free straight from LDev_IX : <br>
 - Sneaky Shadow (15CDC) <br>
 - Groszek (10CDC) <br>
-- none <br>
 
 ###### Official CDC site (6th July 2021) <br>
