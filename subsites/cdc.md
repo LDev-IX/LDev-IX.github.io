@@ -4,7 +4,7 @@
 
 |     | Stable | Beta
 | --- | --- | ---
-| x64 | 10th | 8th
+| x64 | 10th | ask me on discord for one
 
 ## What is CDC ? <br>
 Candice Coin is a cryptocurrency developed by LDev_IX. <br>
