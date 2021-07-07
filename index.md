@@ -5,11 +5,16 @@
 - [LUR](https://ldev-ix.github.io/subsites/lur) - LDev_IX Utilities Reworked <br>
 - LAH - LDev_IX Application Hub <br>
 
+## Need some help ! <br>
+Go to [this](https://ldev-ix.github.io/subsites/help) site to find some help, or ask me directly on discord. <br>
+
 ## Project status : <br>
-- CDC Coin - W.I.P <br>
+- CDC Coin - A.F.D. <br>
 - LUR - W.I.P. <br>
 - LAH - D.N.S. <br>
 
+
+A.F.D. - Available For Download <br>
 W.I.P. - Work In Progress <br>
 D.N.S. - Development Not Started <br>
 D.S. - Development Stopped <br>
