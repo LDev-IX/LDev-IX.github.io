@@ -17,8 +17,8 @@ Candice Coin is being developed right now and I am gathering cool ideas for it. 
 First version of Candice Coin will be released on July 10th or earlier. <br>
 
 ## People who got CDC for free straight from LDev_IX : <br>
-- Sneaky Shadow (15CDC) <br>
-- Groszek (10CDC) <br>
+- Sneaky Shadow 15 (CDC) <br>
+- Groszek 10 (CDC) <br>
 
 ## List of users : <br>
 - Karolcio22
@@ -28,3 +28,5 @@ First version of Candice Coin will be released on July 10th or earlier. <br>
 - JJDDMarymoinka
 
 ###### Official CDC site (6th July 2021) <br>
+
+###### DM me "Coin Is Mooning" on discord for free (CDC) <br>
