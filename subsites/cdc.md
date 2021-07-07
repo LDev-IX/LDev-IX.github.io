@@ -1,6 +1,6 @@
 # Candice Coin (CDC) <br>
 
-## Download CDC <br>
+## Download CDC Wallet <br>
 
 |     | Stable | Beta
 | --- | --- | ---
