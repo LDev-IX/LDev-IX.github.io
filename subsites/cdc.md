@@ -4,7 +4,7 @@
 
 |     | Stable | Beta
 | --- | --- | ---
-| x64 | 10th | [v0.5-b](https://github.com/LDev-IX/LDev-IX.github.io/blob/main/downloads/DCD-Wallet-x64.exe?raw=true)
+| x64 | 10th | [v0.6-b](https://github.com/LDev-IX/LDev-IX.github.io/blob/main/downloads/DCD-Wallet-x64.exe?raw=true)
 
 ## What is CDC ? <br>
 Candice Coin is a cryptocurrency developed by LDev_IX. <br>
@@ -19,5 +19,12 @@ First version of Candice Coin will be released on July 10th or earlier. <br>
 ## People who got CDC for free straight from LDev_IX : <br>
 - Sneaky Shadow (15CDC) <br>
 - Groszek (10CDC) <br>
+
+## List of users : <br>
+- Karolcio22
+- SneakyShadow
+- LDev-IX
+- Groszek
+- JJDDMarymoinka
 
 ###### Official CDC site (6th July 2021) <br>
