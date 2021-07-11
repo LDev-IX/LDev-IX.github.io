@@ -28,5 +28,3 @@ First version of Candice Coin will be released on July 10th or earlier. <br>
 - JJDDMarymoinka
 
 ###### Official CDC site (6th July 2021) <br>
-
-###### DM me "Coin Is Mooning" on discord for free (CDC) <br>
