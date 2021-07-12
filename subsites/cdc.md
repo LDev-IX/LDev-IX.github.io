@@ -4,7 +4,7 @@
 
 |     | Stable | Beta
 | --- | --- | ---
-| x64 | 10th | [v0.7-b](https://github.com/LDev-IX/LDev-IX.github.io/raw/main/downloads/DCD-Wallet-x64.exe)
+| x64 | [v 1.0-r](https://github.com/LDev-IX/LDev-IX.github.io/raw/main/downloads/DCD-Wallet-x64.exe) | v 0.7-b
 
 ## What is CDC ? <br>
 Candice Coin is a cryptocurrency developed by LDev_IX. <br>
