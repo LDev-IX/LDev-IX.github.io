@@ -2,8 +2,8 @@
 
 ## About me : <br>
 I'm a c# and java programmer. <br>
-I also create music make 3d models/renders/animations and more! <br>
-If you want me to make something for you that is closed-source/paid the you must pay me in : <br>
+I also create music, make 3d models/renders/animations and more! <br>
+If you want me to make something for you that is closed-source, paid or just for you (ex.: a profile picture) then you must pay me : <br>
 - IRL money (using some form of online payment) <br>
 - Candice Coins (CDC) <br>
 
@@ -20,7 +20,7 @@ I created things like : <br>
 - LAH - LDev_IX Application Hub <br>
 
 ## Need some help! <br>
-Go to [this](https://ldev-ix.github.io/subsites/help) site to find some help, or ask me directly on discord. <br>
+Go to [this site](https://ldev-ix.github.io/subsites/help) to find some help, or ask me directly on discord. <br>
 
 ## Project status : <br>
 - CDC Coin - A.F.D. <br>
