@@ -18,4 +18,4 @@
   I'm a junior c# and java developer<br>
   I've been learning c# for over 3 years now and java for over a year<br>
   My discord is : LDev_IX#6194<br>
-</br>
+</p>
