@@ -5,7 +5,7 @@
 
 <h2>Projects</h2>
 <p>
-  - ZEL : A simple programming language developed by myself [Website] <br>
+  - ZEL : A simple programming language developed by myself [<a href="https://ldev-ix.github.io/ZEL/">Website</a>] <br>
   - Zetta Coin (ZTC) : My very own cryptocurrency [W.I.P.] <br>
   - YTVD : A YouTube Video Downloader [W.I.P.] <br>
   - MudPud Reborn / Reloaded / Original : A very simple RPG Game [Discontinued] <br>
