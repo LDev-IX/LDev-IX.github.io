@@ -40,6 +40,7 @@
   
   Example : <br>
   printl "The text that will be printed" <br>
+</p>
 
 ## Scripts
 <p>
