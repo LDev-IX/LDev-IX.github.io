@@ -11,12 +11,11 @@
   - MudPud Reborn / Reloaded / Original : A very simple RPG Game [Discontinued] <br>
   - MCMPP : A minecraft mod that added new machines, ores, armor and tools [Discontinued] <br>
   - SACruncher : A pc benchmarking tool [Discontinued] <br>
-  - Candice Coin (CDC) : A currency that was not crypto [Discontinued] <br>
+  - Candice Coin (CDC) : A currency that was a mistake [Discontinued] <br>
 </p>
 
 <h2>About me</h2>
 <p>
-  I'm a junior c# and java developer <br>
   I've been learning c# for over 5 years now and java for over a year <br>
   My discord is : LDev_IX#6194 <br>
 </p>
