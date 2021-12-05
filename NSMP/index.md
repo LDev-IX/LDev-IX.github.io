@@ -14,7 +14,7 @@
 
 <h2>Modpack installation</h2>
 <p>
-  If you don't have 7zip or WinRAR installed, install one of them. <br>
+  If you don't have 7zip installed, install it. <br>
   Download minecraft forge 1.12.2 installer. <br>
   Download the modpack <a href="">here</a>. <br>
   Download Java 8 JRE. <br>
@@ -30,6 +30,18 @@
   Paste the modpack here (NMP.7z). <br>
   Select the modpack. <br>
   Right click on it. <br>
+  Select "7-Zip", then "Extract here". <br>
+  Wait for all the files to extract. <br>
+  Delete "NMP.7z". <br>
+  Close file explorer. <br>
+  Run minecraft launcher. <br>
+  Create a new installation. <br>
+  Version must be set to "release 1.12.2-forge-14.23.5.2855". <br>
+  In the "Game Directory" field add "/(name of the folder that you created)" to the end of the line. <br>
+  Click "More options". <br>
+  Set "JVM Arguments" to "-Xmx6G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M". <br>
+  Click "Create". <br>
+  And you're done, that's all! <br>
 
 <h2>Mods</h2>
 <p>
