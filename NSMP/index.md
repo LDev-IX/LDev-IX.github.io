@@ -46,4 +46,7 @@
 
 <h2>Mods</h2>
 <p>
+  I will not describe all mods that are included in the modpack. <br>
+  If you want to get more info about a certain mod, type "@(mod name)" in the search bar in JEI, and look for a book, it contains important information about the mod. <br>
+  If no book is available, just DM me. <br>
 </p>
