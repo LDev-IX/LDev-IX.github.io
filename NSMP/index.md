@@ -8,7 +8,7 @@
 
 <h2>Rules</h2>
 <p>
-  Just be a good person, because if you won't you'll get banned. <br>
+  Just be a good person, because if you won't, you'll get banned. <br>
   And the administration is always right. <br>
 </p>
 
