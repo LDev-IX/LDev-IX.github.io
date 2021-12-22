@@ -17,7 +17,7 @@
 <p>
   If you don't have 7zip installed, install it. <br>
   Download minecraft forge 1.12.2 installer. <br>
-  Download the modpack <a href="">here</a>. <br>
+  Download the modpack <a href="https://github.com/LDev-IX/LX-Downloads/releases/download/nsmp/NSMP.7z">here</a>. <br>
   Download Java 8 JRE. <br>
   Run the Java 8 installer. <br>
   Wait for Java 8 to install. <br>
