@@ -4,7 +4,6 @@
   To play on this server you'll need to download the official NSMP Modpack. <br>
   Server will be hosted in Poland so if you live in any other country you may experience some lag. <br>
   The grand opening date is not yet known, be patient. <br>
-  Discord server invite link available <a href="https://discord.com/invite/9pXbsSffTE">here</a>. <br>
 </p>
 
 <h2>Rules</h2>
