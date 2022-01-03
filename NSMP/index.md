@@ -16,23 +16,24 @@
 <p>
   If you don't have 7zip installed, install it. <br>
   Download minecraft forge 1.12.2 installer. <br>
-  Download the modpack <a href="https://github.com/LDev-IX/LX-Downloads/releases/download/nsmp/NSMP.7z">here</a>. <br>
+  Download the modpack <a href="https://github.com/LDev-IX/LX-Downloads/releases/download/nsmp/NSMPM.7z">here</a>. <br>
   Download Java 8 JRE. <br>
   Run the Java 8 installer. <br>
   Wait for Java 8 to install. <br>
   Restart your computer. <br>
   Run forge 1.12.2 installer. <br>
   Wait for forge 1.12.2 to install. <br>
-  Copy the modpack (NMP.7z). <br>
+  Copy the modpack (NSMPM.7z). <br>
   Open minecraft directory (%appdata%\.minecraft). <br>
   Create a new folder called whatever you want. <br>
   Open the newly created folder. <br>
-  Paste the modpack here (NMP.7z). <br>
+  Paste the modpack here (NSMPM.7z). <br>
   Select the modpack. <br>
   Right click on it. <br>
   Select "7-Zip", then "Extract here". <br>
+  Modpack password is "NSMPmodpackPassword". <br>
   Wait for all the files to extract. <br>
-  Delete "NMP.7z". <br>
+  Delete "NSMPM.7z". <br>
   Close file explorer. <br>
   Run minecraft launcher. <br>
   Create a new installation. <br>
