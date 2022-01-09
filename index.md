@@ -16,6 +16,6 @@
 
 <h2>About me</h2>
 <p>
-  I've been learning c# for over 5 years now and java for over a year <br>
+  I've been learning c# for over 6 years now and java for over a year <br>
   My discord is : LDev_IX#6194 <br>
 </p>
