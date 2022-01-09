@@ -30,7 +30,7 @@
   Select the modpack. <br>
   Right click on it. <br>
   Select "7-Zip", then "Extract here". <br>
-  Modpack password is "NSMPmodpackPassword". <br>
+  Modpack password is "NSMPMPassword". <br>
   Wait for all the files to extract. <br>
   Delete "NSMPM.7z". <br>
   Close file explorer. <br>
