@@ -19,6 +19,6 @@
 <h2>About me</h2>
 <p>
   I've been learning c# for over 6 years now and java for over a 2 years <br>
-  I specialize in programming and networking (server managment etc.) <br>
+  I specialize in programming and networking (server management etc.) <br>
   My discord is : LDev_IX#6194 <br>
 </p>
