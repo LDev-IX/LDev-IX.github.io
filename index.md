@@ -5,6 +5,7 @@
 
 <h2>Projects</h2>
 <p>
+  - LX-Mechanisms : A minecraft mod [Private Beta] <br>
   - LX-DDTU : Utility used to directly transfer data between computers [W.I.P.] <br>
   - Zetta Coin (ZTC) : My very own cryptocurrency [W.I.P.] <br>
   - YTVD : A YouTube Video Downloader [W.I.P.] <br>
@@ -18,5 +19,6 @@
 <h2>About me</h2>
 <p>
   I've been learning c# for over 6 years now and java for over a 2 years <br>
+  I specialize in programming and networking (server managment etc.) <br>
   My discord is : LDev_IX#6194 <br>
 </p>
